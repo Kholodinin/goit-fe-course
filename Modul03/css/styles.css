@@ -1,0 +1,51 @@
+ 
+ a {
+     background-position: center;
+    display: inline-block;
+    color: grey;
+    font-size: 16px; 
+    text-decoration: none;
+    padding: 20px;
+    margin left: 20px;
+    width: 15%;
+    text-align: center;
+
+}
+a {
+    color: grey;
+    width: 20%
+}
+div {
+    color: grey;
+    display: block;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 100%;
+    font-size: 16px;
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+   
+}
+div {
+    display: inline-block;
+    padding: 30px;
+    margin: 30px;
+    color: grey;
+    width: 35%;
+}
+.a href {
+    color: grey;
+    text-align: center;
+    border: 5px; color: grey;
+    font-size: 32px;
+
+
+}
+
+button {
+   margin-left: auto;
+   font-size: 16px;
+   border-color: grey;
+   border-width: 2px;
+}
