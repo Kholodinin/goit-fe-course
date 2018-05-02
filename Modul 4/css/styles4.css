@@ -1,0 +1,88 @@
+ * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+                             
+.wrapper {
+    display: block;
+    width: 1647px;
+    height: 1838px;
+    padding: 180px;
+    }
+                             
+.menu li {
+    display: inline;
+    margin-left: 14px;
+    font-size: 14pt;
+    text-transform: uppercase;
+    }
+                             
+.logo {
+    display: inline;
+    font-family: Roboto, sans-serif;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 25px;
+    }
+                             
+.logo h3 {
+    display: inline-block;
+    text-transform: uppercase;
+    color: rgb(85, 82, 82);
+    margin: 19px;
+    }
+                             
+.logo h3::first-letter {
+    color: rgb(26, 188, 165);
+    }
+                             
+.content {
+    width: 350px;
+    height: 445px;
+    margin: 37px;
+    float: left;
+    }
+                             
+                             .content img {
+                                 width: 350px;
+                                 height: 260px;
+                             }
+                             
+                             .list {
+                                 display: inline-block;
+                                 margin: 30px;
+                                 width: 255px;
+                                 height: 325px;
+                                 background-color: rgb(232, 239, 252);
+                             }
+                             
+                             .list:first-child {
+                                 background-image: url("images/product1.png");
+                             }
+                             
+                             .list p {
+                                 margin-top: 285px;
+                                 padding-left: 8px;
+                                 background-color: rgb(50, 50, 50);
+                                 font-family: Trebuchet MS, sans-serif;
+                                 text-transform: uppercase;
+                                 color: rgb(232, 239, 252);
+                                 text-shadow: rgb(221, 226, 236);
+                                 font-size: 24px;
+                                 line-height: 40px;
+                             }
+                             
+                             .list p span {
+                                 display: inline-block;
+                                 background-color: rgba(170, 168, 168, 0.973);
+                                 text-align: right;
+                             }
+                             
+                             .zagolovok {
+                                 display: block;
+                                 padding: 45px;
+                                 text-align: center;
+                                 font-family: Trebuchet MS, sans-serif;
+                                 text-transform: uppercase;
+                             }
